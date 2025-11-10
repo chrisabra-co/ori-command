@@ -335,9 +335,9 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Credits
 
-Based on the [MCP Server ORI](https://github.com/grandinh/mcp-server-ori) by Harrison Grandin. This slash command version was adapted for Claude Code to provide a lightweight, zero-setup implementation of the ORI workflow framework.
+Based on the [MCP Server ORI](https://github.com/grandinh/mcp-server-ori) by Grandin Harrison. This slash command version was adapted for Claude Code to provide a lightweight, zero-setup implementation of the ORI workflow framework.
 
-Special thanks to Harrison Grandin for the original ORI framework and workflow design.
+Special thanks to Grandin Harrison for the original ORI framework and workflow design.
 
 ## Support
 
